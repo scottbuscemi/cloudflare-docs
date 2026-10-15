@@ -1,0 +1,29 @@
+src/content/changelog/workers/2026-10-15-user-scoped-github-repositories.mdx
+  s_e245fad5728b35::t_6fc1b9cb29a826 1-14
+src/content/docs/pages/configuration/git-integration/github-integration.mdx
+  s_e245fad5728b35::t_1615a5066cd4de 47-51
+src/content/docs/pages/configuration/git-integration/index.mdx
+  s_e245fad5728b35::t_9206855c452df6 52
+src/content/docs/workers/ci-cd/builds/git-integration/github-integration.mdx
+  s_e245fad5728b35::t_54f8a49face2ca 49-52
+src/content/docs/workers/ci-cd/builds/index.mdx
+  s_e245fad5728b35::t_00786f20477ce0 19,26-27
+src/content/partials/pages/get-started-git-connect-pages.mdx
+  s_e245fad5728b35::t_e587ad44341988 12,15,31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "fb562633462bda4f4e7d64dee815f79f861efacd",
+  "prompts": {},
+  "sessions": {
+    "s_e245fad5728b35": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a13ff5-7c26-79c1-aa6a-537a9d0a583f",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "scottbuscemi <sbuscemi@cloudflare.com>"
+    }
+  }
+}
